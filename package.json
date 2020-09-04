@@ -1,0 +1,8 @@
+{
+  "name": "react-parcel-starter",
+  "version": "1.0.0",
+  "description": "A starter repo for creating React applications using Parcel as the module bundler",
+  "main": "index.js",
+  "author": "Manan Joshi",
+  "license": "MIT"
+}
