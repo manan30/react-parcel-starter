@@ -18,5 +18,7 @@
     "sourceType": "module"
   },
   "plugins": ["react", "react-hooks", "prettier"],
-  "rules": {}
+  "rules": {
+    "react/jsx-filename-extension": "off"
+  }
 }
